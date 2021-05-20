@@ -5,3 +5,4 @@
  👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently doing Int. M.Sc. in Mathematics and Computing 
 - 📫 How to reach me https://www.linkedin.com/in/rishi2902/
+- :relaxed: https://rishi2902.medium.com/
